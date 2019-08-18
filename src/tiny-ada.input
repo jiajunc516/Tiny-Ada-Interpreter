@@ -1,0 +1,8 @@
+declare
+a: integer; i: integer; b: boolean;
+begin
+get(a); b := false; i := 0;
+while i < a loop
+put(i); i := i + 1; 
+end loop;
+end;
