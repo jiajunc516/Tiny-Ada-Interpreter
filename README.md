@@ -1,1 +1,1 @@
-# Tiny-Ada-Compiler
+# Tiny-Ada-Interpreter
